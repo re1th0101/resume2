@@ -1,0 +1,51 @@
+{
+    "details":{
+        "name":"k.revanth",
+        "mail":"krevanth178@gmail.com",
+        "mobile":9618634428,
+        "address":"60 feet road ongole",
+        "image":"image1.png"
+    },
+    "carrerobjectives":[
+          "To make use of my interpersonal skills to achieve goals of a company that focuses on customer satisfaction and customer experience",
+          "An excellent academic record,ability to understand and test software,working knowledge of Azure,and a strong understanding of core internet Technoligies.I seek to work as a system Engineer to further my knowledge in the domain and utilize my skills."
+    ],
+    "hobbies":[
+        "Playing Cricket","Playing Football","Reading Books", "Listening Music"
+    ],
+    "languages":[
+        "Telugu","English","Hindi"
+    ], 
+    "Educationaldetails":[
+        {
+        
+            "Qualification":"class 10",
+            "Board":"CBSE",
+            "Percentage":"9.2",
+            "Year":"2016"
+        },
+        {
+            
+            "Qualification":"Intermediate",
+            "Board":"BIEAP",
+            "Percentage":"97",
+            "Year":"2018"
+        },
+        {
+
+            "Qualification":"BTECH",
+            "Board":"JNTUK",
+            "Percentage":"9.0",
+            "Year":"2022"
+        }
+
+    ],
+    "Certifications":[
+        "Scored grade A certificate in nptel for c++ and python",
+        "grade A certificate in carrer Development skills",
+        "secured a prize and certificate in football played for the University"
+    ],
+    "Declaration":[
+        "I hereby declare that the details furnished above are true and correct to the best of my knowledge and belief."
+    ]
+}

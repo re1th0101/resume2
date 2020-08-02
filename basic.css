@@ -1,0 +1,146 @@
+.mail{
+    text-align: center;
+    color:blue;
+    margin: 0;
+}
+#name{
+    text-align: center;
+    color:blue;
+    margin: 0;
+}
+.details{
+    border:2px solid black;
+    margin:5px;
+
+}
+
+.personal-details {
+    border: 2px solid black;
+    margin:5px;
+    background-color:  #c9cac8;
+    height:26rem;
+
+}
+ol,ul{
+    font-size: x-large;
+}
+h3{
+    font-size:x-large
+}
+
+.hobbies{
+    border:2px solid black;
+    margin:5px;
+    height:220px;
+    padding: 5%;
+    font-size: xx-large;
+    background-color:  #c9cac8;
+}
+.languages{
+    border:2px solid black;
+    margin:5px;
+    height:230px;
+    padding:5%;
+    font-size: xx-large;
+    background-color:  #c9cac8;
+}
+img{
+    width:250px;
+    padding:10px;
+}
+.mobile{
+    text-align: center;
+    color:blue;
+    margin: 0;
+    font-size: large;
+}
+.address{
+    text-align: center;
+    color:blue;
+    margin: 0;
+    font-size: large;
+}
+.parent-div{
+    border:2px solid black;
+    margin:5px;
+    display: flex;
+}
+h2{
+    text-decoration: underline;
+}
+p{
+    font-size:23px;
+}
+.right-side {
+    border: 2px solid black;
+    margin: 5px;
+    background-color: burlywood;
+
+}
+
+.carrerobjectives{
+    margin:5px;
+    border: 2px solid black;
+    padding: 2rem;
+    /* padding-left: 3%; */
+}
+.Educationaldetails{
+    border:2px solid black;
+    margin:5px;
+    padding: 2rem;  
+}
+.Certifications{
+    margin:5px;
+    border: 2px solid black;
+    padding: 2rem;
+    /* padding-left: 3%; */
+}
+.Declaration{
+    margin:5px;
+    border: 2px solid black;
+    padding: 2rem;
+    /* padding-left: 3%; */
+}
+table,td,tr{
+    border: 2px solid black;
+    border-collapse: collapse;
+    font-size: x-large;
+    margin: 1rem;
+    width: 50rem;
+    height: 2rem;
+    text-align: center;
+    
+}
+@media only screen and (max-width:720px){
+    .personal-details{
+        width:98.2%;
+        height:110%;
+    }
+    .right-side{
+        width:134%;
+        height:65%;
+    }
+    .details{
+        height:250%;
+        width:130%;
+    }
+    .parent-div{
+        width:250%;
+        height: 100%;
+        flex-wrap: wrap;
+    }
+    table{
+        width:100%;
+    }
+    img{
+        padding:35%;
+    }
+    .mail,#name,.mobile{
+        
+        font-size: xx-large;
+    }
+    .address{
+        padding-bottom: 20%;
+        font-size: xx-large;
+    }
+}   
