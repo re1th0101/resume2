@@ -111,7 +111,7 @@ table,td,tr{
     text-align: center;
     
 }
-@media only screen and (max-width:1334px){
+@media only screen and (max-width:720px){
     .personal-details{
         width:99%;
         height:110%;
